@@ -1,0 +1,5 @@
+def add(a,b):
+    return a+b
+a=int(input("Enter the values:"))
+b=int(input("Enter the values:")) 
+print("Answer:",add(a,b))
